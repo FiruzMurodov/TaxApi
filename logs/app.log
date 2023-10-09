@@ -1,0 +1,172 @@
+2023-09-25T10:12:20.732+0500	ERROR	services/tokenService2023-10-09T14:31:20.595+0500	ERROR	http/server.go:2122	
+2023-10-09T15:25:15.731+0500	ERROR	http/server.go:2122	
+2023-10-09T15:25:24.768+0500	ERROR	http/server.go:2122	
+2023-10-09T15:25:42.466+0500	ERROR	http/server.go:2122	
+2023-10-09T15:28:12.412+0500	ERROR	http/server.go:2122	
+2023-10-09T15:29:20.558+0500	ERROR	http/server.go:2122	
+2023-10-09T15:29:32.970+0500	ERROR	http/server.go:2122	
+2023-10-09T15:29:39.550+0500	ERROR	http/server.go:2122	
+2023-10-09T15:30:09.735+0500	ERROR	http/server.go:2122	
+2023-10-09T15:30:16.862+0500	ERROR	http/server.go:2122	
+TokenToUser
+2023-09-25T10:17:07.012+0500	INFO	services/services.go:59	Такого пользователя не существует
+2023-09-25T10:17:07.012+0500	ERROR	services/tokenService.go:29	Такой пользователь не существует
+2023-09-25T10:17:07.013+0500	ERROR	handlers/handlers.go:62	Неправильный логин и пароль в функции GetTokenToUser
+2023-09-25T12:45:50.249+0500	ERROR	handlers/registration.go:27	Такой пользователь существует
+2023-09-25T12:46:07.420+0500	ERROR	handlers/registration.go:27	Такой пользователь существует
+2023-09-25T12:47:44.011+0500	ERROR	handlers/registration.go:27	Такой пользователь существует
+2023-09-25T12:48:51.097+0500	ERROR	handlers/registration.go:27	Такой пользователь существует
+2023-09-25T12:54:21.776+0500	ERROR	handlers/registration.go:27	Такой пользователь существует
+2023-09-25T12:57:01.906+0500	ERROR	handlers/registration.go:27	Не удалось регистровать пользователя
+2023-09-25T13:32:00.709+0500	ERROR	handlers/registration.go:27	Такой пользователь существует
+2023-09-25T13:34:38.950+0500	ERROR	services/services.go:34
+2023-09-25T13:34:38.950+0500	ERROR	handlers/registration.go:27	Не удалось регистровать пользователя
+2023-09-25T13:36:39.977+0500	ERROR	handlers/registration.go:27	Такой пользователь существует
+2023-09-25T13:44:31.398+0500	ERROR	services/services.go:34
+2023-09-25T13:44:31.399+0500	ERROR	handlers/registration.go:27	Не удалось регистровать пользователя
+2023-09-25T19:07:32.940+0500	ERROR	handlers/registration.go:27	Такой пользователь существует
+2023-09-25T19:08:18.769+0500	ERROR	handlers/registration.go:27	Такой пользователь существует
+2023-09-25T19:08:18.772+0500	INFO	http/server.go:2122
+2023-09-26T12:24:16.560+0500	INFO	handlers/middleware.go:15	Токен исчерпан, авторизуйтесь заново
+2023-09-26T12:24:16.561+0500	INFO	http/server.go:2122	Token has been expired
+2023-09-26T12:25:17.397+0500	INFO	handlers/middleware.go:15	Токен исчерпан, авторизуйтесь заново
+2023-09-26T12:25:17.397+0500	INFO	http/server.go:2122	Token has been expired
+2023-09-26T12:25:33.596+0500	INFO	handlers/middleware.go:15	Токен исчерпан, авторизуйтесь заново
+2023-09-26T12:25:33.596+0500	INFO	http/server.go:2122	Token has been expired
+2023-09-26T12:54:25.595+0500	ERROR	http/server.go:2122
+2023-09-26T13:04:04.276+0500	ERROR	http/server.go:2122
+2023-09-26T13:33:09.866+0500	ERROR	http/server.go:2122
+2023-09-26T13:33:33.455+0500	ERROR	http/server.go:2122
+2023-09-26T13:37:04.198+0500	ERROR	http/server.go:2122
+2023-09-26T13:52:49.661+0500	ERROR	http/server.go:2122
+2023-09-26T13:53:05.079+0500	ERROR	http/server.go:2122
+2023-09-26T13:53:30.304+0500	ERROR	http/server.go:2122
+2023-09-26T13:54:03.919+0500	ERROR	http/server.go:2122
+2023-09-26T13:56:09.099+0500	ERROR	http/server.go:2122
+2023-09-26T13:56:25.470+0500	ERROR	http/server.go:2122
+2023-09-26T14:08:10.915+0500	ERROR	http/server.go:2122
+2023-09-26T14:08:25.543+0500	ERROR	http/server.go:2122
+2023-09-26T14:08:36.766+0500	ERROR	http/server.go:2122
+2023-09-26T14:09:25.023+0500	ERROR	http/server.go:2122
+2023-09-26T14:09:38.212+0500	ERROR	http/server.go:2122
+2023-09-26T14:09:44.110+0500	ERROR	http/server.go:2122
+2023-09-26T15:25:54.303+0500	ERROR	handlers/registration.go:20	Неверное количество символов в пароле
+2023-09-26T15:32:02.420+0500	ERROR	handlers/registration.go:20	Неверное количество символов в пароле
+2023-09-26T16:19:02.172+0500	ERROR	handlers/registration.go:20	Неверное количество символов в пароле
+2023-09-26T17:02:36.427+0500	ERROR	handlers/registration.go:20	Неверное количество символов в пароле
+2023-09-26T17:06:03.949+0500	ERROR	handlers/registration.go:20	Неверное количество символов в пароле
+2023-09-26T17:06:03.950+0500	ERROR	http/server.go:2122	Введенные данные недействительныinvalid data in Password
+2023-09-27T10:48:40.619+0500	ERROR	http/server.go:2122
+2023-09-27T10:48:57.561+0500	ERROR	http/server.go:2122
+2023-09-27T10:49:15.234+0500	ERROR	http/server.go:2122
+2023-09-28T08:55:21.317+0500	ERROR	http/server.go:2122
+2023-09-28T08:56:56.234+0500	ERROR	http/server.go:2122
+2023-09-28T14:16:40.436+0500	ERROR	http/server.go:2122
+2023-09-28T15:23:11.573+0500	ERROR	http/server.go:2122
+2023-09-28T15:23:42.325+0500	ERROR	http/server.go:2122
+2023-09-28T15:37:24.580+0500	ERROR	http/server.go:2122
+2023-10-02T15:42:40.648+0500	ERROR	http/server.go:2122
+2023-10-02T15:43:37.022+0500	ERROR	http/server.go:2122
+2023-10-02T15:44:41.999+0500	ERROR	http/server.go:2122
+2023-10-02T15:47:57.207+0500	ERROR	http/server.go:2122
+2023-10-02T15:49:47.617+0500	ERROR	http/server.go:2122
+2023-10-02T15:52:20.104+0500	ERROR	http/server.go:2122
+2023-10-02T20:46:00.948+0500	ERROR	http/server.go:2122
+2023-10-02T23:42:34.016+0500	ERROR	http/server.go:2122
+2023-10-02T23:44:42.980+0500	ERROR	http/server.go:2122
+2023-10-02T23:47:09.806+0500	ERROR	http/server.go:2122
+2023-10-02T23:55:32.700+0500	ERROR	http/server.go:2122
+2023-10-02T23:56:35.576+0500	ERROR	http/server.go:2122
+2023-10-02T23:56:56.058+0500	ERROR	http/server.go:2122
+2023-10-02T23:59:14.095+0500	ERROR	http/server.go:2122
+2023-10-03T00:01:01.849+0500	ERROR	http/server.go:2122
+2023-10-03T00:01:32.624+0500	ERROR	http/server.go:2122
+2023-10-03T00:09:11.860+0500	ERROR	http/server.go:2122
+2023-10-03T00:09:22.364+0500	ERROR	http/server.go:2122
+2023-10-03T00:09:28.569+0500	ERROR	http/server.go:2122
+2023-10-04T12:52:06.457+0500	INFO	http/server.go:2122
+2023-10-04T12:52:37.191+0500	INFO	http/server.go:2122
+2023-10-04T12:52:41.601+0500	ERROR	http/server.go:2122
+2023-10-04T12:53:46.522+0500	ERROR	http/server.go:2122
+2023-10-04T14:13:03.702+0500	ERROR	http/server.go:2122
+2023-10-04T14:13:03.724+0500	INFO	http/server.go:2122
+2023-10-04T14:15:19.735+0500	INFO	http/server.go:2122
+2023-10-04T14:16:03.349+0500	INFO	http/server.go:2122
+2023-10-04T14:36:37.995+0500	INFO	http/server.go:2122
+2023-10-04T14:36:45.369+0500	INFO	http/server.go:2122
+2023-10-04T14:49:49.055+0500	INFO	http/server.go:2122
+2023-10-04T14:54:22.616+0500	INFO	http/server.go:2122
+2023-10-04T15:03:45.867+0500	INFO	http/server.go:2122
+2023-10-04T15:04:54.935+0500	INFO	http/server.go:2122
+2023-10-04T17:32:03.456+0500	INFO	http/server.go:2122
+2023-10-04T18:05:23.762+0500	ERROR	http/server.go:2122
+2023-10-04T18:05:34.936+0500	ERROR	http/server.go:2122
+2023-10-04T18:05:53.559+0500	ERROR	http/server.go:2122
+2023-10-04T18:06:02.565+0500	ERROR	http/server.go:2122
+2023-10-04T18:08:42.138+0500	ERROR	http/server.go:2122
+2023-10-04T18:46:38.568+0500	ERROR	services/services.go:72	Get "https://router.project-osrm.org/table/v1/car/68.7905126810074,38.58431253533249;68.786610,38.578731?sources=1&destinations=0&annotations=duration,distance": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2023-10-04T18:46:38.705+0500	ERROR	http/server.go:2122
+2023-10-04T18:46:42.905+0500	ERROR	services/services.go:72	Get "https://router.project-osrm.org/table/v1/car/68.7905126810074,38.58431253533249;68.786610,38.578731?sources=1&destinations=0&annotations=duration,distance": dial tcp: lookup router.project-osrm.org: getaddrinfow: This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server.
+2023-10-04T18:46:42.905+0500	ERROR	http/server.go:2122
+2023-10-04T18:47:19.407+0500	ERROR	services/services.go:72	Get "https://router.project-osrm.org/table/v1/car/68.7905126810074,38.58431253533249;68.786610,38.578731?sources=1&destinations=0&annotations=duration,distance": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2023-10-04T18:47:19.407+0500	ERROR	http/server.go:2122
+2023-10-04T18:47:57.067+0500	ERROR	services/services.go:72	Get "https://router.project-osrm.org/table/v1/car/68.7905126810074,38.58431253533249;68.786610,38.578731?sources=1&destinations=0&annotations=duration,distance": dial tcp: lookup router.project-osrm.org: getaddrinfow: This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server.
+2023-10-04T18:47:57.180+0500	ERROR	http/server.go:2122
+2023-10-04T18:49:24.622+0500	ERROR	services/services.go:73	Get "https://router.project-osrm.org/table/v1/car/68.7905126810074,38.58431253533249;68.786610,38.578731?sources=1&destinations=0&annotations=duration,distance": dial tcp: lookup router.project-osrm.org: getaddrinfow: This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server.
+2023-10-04T18:49:24.777+0500	ERROR	http/server.go:2122
+2023-10-04T18:50:48.584+0500	ERROR	services/services.go:73	Get "https://router.project-osrm.org/table/v1/car/68.7905126810074,38.58431253533249;68.786610,38.578731?sources=1&destinations=0&annotations=duration,distance": dial tcp: lookup router.project-osrm.org: getaddrinfow: This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server.
+2023-10-04T18:50:48.584+0500	ERROR	http/server.go:2122
+2023-10-04T18:50:53.449+0500	ERROR	services/services.go:73	Get "https://router.project-osrm.org/table/v1/car/68.7905126810074,38.58431253533249;68.786610,38.578731?sources=1&destinations=0&annotations=duration,distance": dial tcp: lookup router.project-osrm.org: getaddrinfow: This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server.
+2023-10-04T18:50:53.449+0500	ERROR	http/server.go:2122
+2023-10-04T18:50:56.759+0500	ERROR	services/services.go:73	Get "https://router.project-osrm.org/table/v1/car/68.7905126810074,38.58431253533249;68.786610,38.578731?sources=1&destinations=0&annotations=duration,distance": dial tcp: lookup router.project-osrm.org: getaddrinfow: This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server.
+2023-10-04T18:50:56.759+0500	ERROR	http/server.go:2122
+2023-10-04T18:51:39.789+0500	ERROR	services/services.go:73	Get "https://router.project-osrm.org/table/v1/car/68.7905126810074,38.58431253533249;68.786610,38.578731?sources=1&destinations=0&annotations=duration,distance": dial tcp: lookup router.project-osrm.org: getaddrinfow: This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server.
+2023-10-04T18:51:39.790+0500	ERROR	http/server.go:2122
+2023-10-04T18:52:25.179+0500	ERROR	services/services.go:73	Get "https://router.project-osrm.org/table/v1/car/68.7905126810074,38.58431253533249;68.786610,38.578731?sources=1&destinations=0&annotations=duration,distance": dial tcp: lookup router.project-osrm.org: getaddrinfow: This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server.
+2023-10-04T18:52:25.180+0500	ERROR	http/server.go:2122
+2023-10-04T19:09:43.456+0500	ERROR	services/services.go:73	Get "https://router.project-osrm.org/table/v1/car/68.7905126810074,38.58431253533249;68.786610,38.578731?sources=1&destinations=0&annotations=duration,distance": dial tcp: lookup router.project-osrm.org: getaddrinfow: This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server.
+2023-10-04T19:09:43.459+0500	ERROR	http/server.go:2122
+2023-10-07T10:20:52.787+0500	ERROR	http/server.go:2122
+2023-10-07T11:08:31.904+0500	ERROR	http/server.go:2122
+2023-10-07T13:57:10.940+0500	ERROR	http/server.go:2122
+2023-10-07T13:59:32.410+0500	ERROR	http/server.go:2122
+2023-10-07T13:59:50.653+0500	ERROR	http/server.go:2122
+2023-10-07T15:13:13.827+0500	ERROR	http/server.go:2122
+2023-10-07T15:15:09.870+0500	ERROR	http/server.go:2122
+2023-10-07T15:15:56.235+0500	ERROR	http/server.go:2122
+2023-10-07T16:15:41.497+0500	ERROR	http/server.go:2122
+2023-10-07T16:17:16.993+0500	ERROR	http/server.go:2122
+2023-10-07T16:17:23.135+0500	ERROR	http/server.go:2122
+2023-10-07T16:17:57.627+0500	ERROR	http/server.go:2122
+2023-10-07T16:23:56.549+0500	ERROR	http/server.go:2122
+2023-10-07T16:47:05.305+0500	ERROR	http/server.go:2122
+2023-10-07T17:04:48.327+0500	INFO	http/server.go:2122
+2023-10-07T17:04:48.328+0500	INFO	http/server.go:2122
+2023-10-07T17:04:48.328+0500	INFO	http/server.go:2122
+2023-10-07T17:06:32.178+0500	INFO	http/server.go:2122
+2023-10-07T17:06:47.823+0500	INFO	http/server.go:2122
+2023-10-07T17:06:52.099+0500	INFO	http/server.go:2122
+2023-10-07T17:07:04.777+0500	INFO	http/server.go:2122
+2023-10-07T17:07:08.629+0500	INFO	http/server.go:2122
+2023-10-07T21:48:47.014+0500	INFO	http/server.go:2122
+2023-10-07T21:48:51.239+0500	INFO	http/server.go:2122
+2023-10-07T21:49:00.806+0500	INFO	http/server.go:2122
+2023-10-07T21:49:05.202+0500	INFO	http/server.go:2122
+2023-10-07T22:06:58.297+0500	ERROR	http/server.go:2122
+2023-10-07T22:07:16.376+0500	ERROR	http/server.go:2122
+2023-10-07T22:10:31.696+0500	ERROR	http/server.go:2122
+2023-10-07T22:12:10.832+0500	ERROR	http/server.go:2122
+2023-10-07T22:12:22.288+0500	ERROR	http/server.go:2122
+2023-10-07T22:12:26.501+0500	ERROR	http/server.go:2122
+2023-10-07T22:13:03.717+0500	ERROR	http/server.go:2122
+2023-10-07T22:15:49.398+0500	ERROR	http/server.go:2122
+2023-10-07T22:35:03.060+0500	ERROR	http/server.go:2122
+2023-10-07T22:35:10.540+0500	ERROR	http/server.go:2122
+2023-10-07T22:46:26.420+0500	ERROR	http/server.go:2122
+2023-10-07T22:46:37.171+0500	ERROR	http/server.go:2122
+2023-10-07T22:47:28.526+0500	ERROR	http/server.go:2122
+2023-10-07T22:47:34.340+0500	ERROR	http/server.go:2122
+2023-10-08T04:30:48.384+0500	ERROR	http/server.go:2122
+2023-10-08T04:31:42.764+0500	ERROR	http/server.go:2122
+2023-10-08T22:22:35.819+0500	ERROR	http/server.go:2122
+2023-10-09T13:39:24.658+0500	ERROR	http/server.go:2122
